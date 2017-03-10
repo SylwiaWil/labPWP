@@ -1,0 +1,23 @@
+﻿Build started 2017-03-10 13:11:54.
+     1>Project "C:\Users\student\labPWP\build\Trygonometria\Trygonometria.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Trygonometria.dir\Debug\Trygonometria.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Trygonometria.dir\Debug\Trygonometria.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule C:/Users/student/labPWP/src/Trygonometria/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\student\labPWP\build\Trygonometria\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\student\labPWP\src\Trygonometria /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Trygonometria.dir\Debug\\" /Fd"Trygonometria.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\Trygonometria\trygonometria.cpp
+         trygonometria.cpp
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\student\labPWP\build\Trygonometria\Debug\Trygonometria.lib" /NOLOGO Trygonometria.dir\Debug\trygonometria.obj  /machine:X86 
+         Trygonometria.vcxproj -> C:\Users\student\labPWP\build\Trygonometria\Debug\Trygonometria.lib
+       FinalizeBuildStatus:
+         Deleting file "Trygonometria.dir\Debug\Trygonometria.unsuccessfulbuild".
+         Touching "Trygonometria.dir\Debug\Trygonometria.lastbuildstate".
+     1>Done Building Project "C:\Users\student\labPWP\build\Trygonometria\Trygonometria.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.56
