@@ -12,7 +12,7 @@
 	#ifdef USE_TRIGONOMETRY_DEGREE
 		result = cos_degree(45.0);
 	#else
-		result = cos(pi/4.0);
+		result = cos(M_PI/4.0);
 	#endif
 
 	double sin_degree(10); 
