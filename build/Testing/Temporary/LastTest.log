@@ -1,0 +1,53 @@
+Start testing: Mar 10 14:14 Œrodkowoeuropejski czas stand.
+----------------------------------------------------------
+Unable to find executable: Laborka
+1/3 Testing: LaborkaPodstawowyTest
+1/3 Test: LaborkaPodstawowyTest
+Command: ""
+Directory: C:/Users/student/labPWP/build
+"LaborkaPodstawowyTest" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LaborkaPodstawowyTest" end time: Mar 10 14:14 Œrodkowoeuropejski czas stand.
+"LaborkaPodstawowyTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: Laborka
+2/3 Testing: LaborkaWynikSin45
+2/3 Test: LaborkaWynikSin45
+Command: "" "45"
+Directory: C:/Users/student/labPWP/build
+"LaborkaWynikSin45" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression not found.Regex=[0[.,]7071
+]
+"LaborkaWynikSin45" end time: Mar 10 14:14 Œrodkowoeuropejski czas stand.
+"LaborkaWynikSin45" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: Laborka
+3/3 Testing: Laborka3sek
+3/3 Test: Laborka3sek
+Command: ""
+Directory: C:/Users/student/labPWP/build
+"Laborka3sek" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Laborka3sek" end time: Mar 10 14:14 Œrodkowoeuropejski czas stand.
+"Laborka3sek" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 10 14:14 Œrodkowoeuropejski czas stand.

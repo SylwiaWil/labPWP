@@ -1,0 +1,7 @@
+LaborkaPodstawowyTest 0 0
+LaborkaWynikSin45 0 0
+Laborka3sek 0 0
+---
+LaborkaPodstawowyTest
+LaborkaWynikSin45
+Laborka3sek
