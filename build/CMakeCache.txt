@@ -14,6 +14,9 @@
 # EXTERNAL cache entries
 ########################
 
+//Czy dodac testy
+BUILD_TESTS:BOOL=ON
+
 //Semicolon separated list of supported configuration types, only
 // supports Debug, Release, MinSizeRel, and RelWithDebInfo, anything
 // else will be ignored.
@@ -155,7 +158,7 @@ PierwszyProgram_SOURCE_DIR:STATIC=C:/Users/student/labPWP/src
 Trygonometria_LIB_DEPENDS:STATIC=
 
 //Czy argumentami funkcji trygonometrycznych maja byc stopnie
-USE_TRIGONOMETRY_DEGREE:BOOL=OFF
+USE_TRIGONOMETRY_DEGREE:BOOL=ON
 
 
 ########################
@@ -236,7 +239,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELEASE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO
 CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=1
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=2
 //ADVANCED property for variable: CMAKE_RC_COMPILER
 CMAKE_RC_COMPILER-ADVANCED:INTERNAL=1
 CMAKE_RC_COMPILER_WORKS:INTERNAL=1
