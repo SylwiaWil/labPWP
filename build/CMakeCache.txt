@@ -154,6 +154,9 @@ PierwszyProgram_SOURCE_DIR:STATIC=C:/Users/student/labPWP/src
 //Dependencies for target
 Trygonometria_LIB_DEPENDS:STATIC=
 
+//Czy argumentami funkcji trygonometrycznych maja byc stopnie
+USE_TRIGONOMETRY_DEGREE:BOOL=ON
+
 
 ########################
 # INTERNAL cache entries
